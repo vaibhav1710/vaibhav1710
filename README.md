@@ -19,6 +19,6 @@
 
 
 ## Find me around the web 🌎
-- <a href="https://leetcode.com/vaibhav_1710/">LeetCode</a> 😍
+- <a href="https://leetcode.com/vaibhav_1710/">LeetCode</a>😎
 - <a href="https://www.codeforces.com/profile/vaibhav_1710/">Codeforces</a> 🙃
 - <a href="https://www.codechef.com/users/v17s">Codechef</a>😁
