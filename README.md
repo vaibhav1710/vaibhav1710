@@ -25,6 +25,9 @@
 
 
 
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=vaibhav1710&theme=radical" />
-</p> 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=vaibhav1710&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav1710" />
+</a>
