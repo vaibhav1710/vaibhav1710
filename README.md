@@ -34,9 +34,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS"  alt="NodeJS" width = "10%" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width = "10%"/>
  </section>
-                                                                                                                                        
+ ------                                                                                                                                      
 
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vaibhav1710&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav1710&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
                                                                                                                                         
 -----                                                                                                                                      
 ## Find me around the web 🌎
