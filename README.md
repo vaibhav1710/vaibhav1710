@@ -15,7 +15,7 @@
 
 🎓&nbsp;I'm a 2nd year I.T. undergrad at JSS Academy of Technical Education ,Noida.
 
-☘ &nbsp;Currently I'm into Competetive programming and learning algorithms along with Web3 development.
+☘ &nbsp;Currently I'm into Competetive programming and learning algorithms along with Android development.
 
 🎇&nbsp;I'm also intersted in exploring technologies like cryptography,Machine learning.
 
