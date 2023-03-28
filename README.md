@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SinghV1710?label=Follow)](https://twitter.com/intent/follow?screen_name=SinghV1710)
 [![Linkedin: Vaibhav](https://img.shields.io/badge/-Vaibhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-singh-577437212/)](https://www.linkedin.com/in/vaibhav-singh-577437212/)
-![GitHub followers](https://img.shields.io/github/followers/vaibhav1710?label=Follow&style=social)
+<!-- ![GitHub followers](https://img.shields.io/github/followers/vaibhav1710?label=Follow&style=social) -->
   
 
 <div align="center">
