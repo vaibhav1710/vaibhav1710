@@ -15,9 +15,9 @@
 
 🎓&nbsp;I'm a 3rd year I.T. undergrad at JSS Academy of Technical Education ,Noida.
 
-☘ &nbsp;Currently I'm into Competetive programming and learning algorithms along with Android development.
+☘ &nbsp;Currently I'm into Competetive programming and learning algorithms along with Web development.
 
-🎇&nbsp;I'm also intersted in exploring technologies like cryptography,Machine learning.
+🎇&nbsp;I'm also intersted in exploring technologies like machine learning, android development,machine learning and salesforce.
 
 ✉ &nbsp;You can send me a mail at singhvaibhav1710@gmail.com! I'll try my best to respond you as soon as possible.
 
