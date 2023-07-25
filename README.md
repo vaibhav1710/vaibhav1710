@@ -13,7 +13,7 @@
 
 ## 👨‍💻 &nbsp;About Me
 
-🎓&nbsp;I'm a 3rd year I.T. undergrad at JSS Academy of Technical Education ,Noida.
+🎓&nbsp;I'm a 4th year I.T. undergrad at JSS Academy of Technical Education ,Noida.
 
 ☘ &nbsp;Currently I'm into Competetive programming and learning algorithms along with Web development.
 
