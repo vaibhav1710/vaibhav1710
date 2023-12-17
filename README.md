@@ -22,6 +22,7 @@ var Vaibhav_Singh = {
   frameworks: [Node, Express, React ],
   experiences: {
      Genpact : "SDE Intern",
+     TLE Eliminator : Mentor,
      Codechef : "Problem Solver"
   },
   competitiveProgrammingSkills: {
