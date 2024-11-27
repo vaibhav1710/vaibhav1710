@@ -16,11 +16,12 @@ A **passionate software engineer** with expertise in **competitive coding and so
 <br/>
 
 ```javascript
-var Vaibhav_Singh = {
+let Vaibhav_Singh = {
   code: [ Java, Python, C++, Javascript , MySQL ],
-  tools: [ Mongo DB , MySQL , Salesforce , Git, GitHub, PostMan  ],
-  frameworks: [Node, Express, React ],
+  tools: [ Mongo DB , MySQL , PostgreSQL , Github, Redis, PostMan  ],
+  frameworks: [Nodejs, Expressjs, Reactjs ],
   experiences: {
+     Rashahacks: "Backend Developer Intern", 
      Genpact : "SDE Intern",
      TLE Eliminator : "Mentor",
      Codechef : "Problem Solver"
@@ -38,15 +39,15 @@ var Vaibhav_Singh = {
 ```
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SinghV1710?label=Follow)](https://twitter.com/intent/follow?screen_name=SinghV1710)
-[![Linkedin: Vaibhav](https://img.shields.io/badge/-Vaibhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-singh-577437212/)](https://www.linkedin.com/in/vaibhav-singh-577437212/)
+
+[![Linkedin: Vaibhav](https://img.shields.io/badge/-Vaibhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-singh-577437212/)](https://www.linkedin.com/in/vaibhavs1903/)
 
 <!-- ![GitHub followers](https://img.shields.io/github/followers/vaibhav1710?label=Follow&style=social) -->
   
 
 ## Education
 
-- B.Tech. in Computer Engineering (4th Year) - JSS Academy of Technical Education , Noida (CGPA: 7.95/10.0)
+- B.Tech. in Information Technology - JSS Academy of Technical Education , Noida (CGPA: 7.95/10.0)
 - CBSE (11-12 Science) - K.V.N. Public School , Varanasi (93.8%)
 - ICSE - St. John's School , Varanasi (88.5%)
 
